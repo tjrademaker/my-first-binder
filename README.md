@@ -1,3 +1,3 @@
 # my-first-binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tjrademaker/my-first-binder/tree/main/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tjrademaker/my-first-binder/HEAD)
